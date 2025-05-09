@@ -4,6 +4,11 @@ Screening Test for Tandemloop Solutions
 ## Language
 - All solutions are written in **TypeScript**.
 
+### NOTE:
+- Install **ts-node** and **TypeScript** globally if not already installed:
+`npm install -g typescript ts-node`
+- To execute a file 1 `npx ts-node Program-1.ts`
+
 ## Files
 - `Program-1.ts`: Solution to "Create a small calculator which performs operations such as Addition, Subtraction, Multiplication and Division using class".
 - `Program-2.ts`: Solution to "With a single integer as the input, generate the following until a = x".
